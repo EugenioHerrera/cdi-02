@@ -1,5 +1,5 @@
 # cdi-02
 Actividad 2
-Herrera Eugenio
-grupo: Mendez Facundo, Carlos Gabri
-IMPA TRQ
+Alumno:Herrera Eugenio Curso: 4to 1 avionica Materia: Control de interfaces
+
+Colaboradores: Carlos Gabri Krizak, Facundo Mendez
